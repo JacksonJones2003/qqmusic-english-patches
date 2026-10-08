@@ -45,8 +45,21 @@ java -jar morphe-desktop-*-all.jar patch -p patches-*.mpp QQMusic.apk
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/JacksonJones2003/qqmusic-english-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 QQ音乐&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-#### The list of patches is shown here after the first release.
+**🎯 Supported versions:**
+
+| 20.9.0.8 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [English translation](#english-translation) | Translates the Chinese interface text of the app to English. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
